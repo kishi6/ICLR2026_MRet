@@ -1,6 +1,6 @@
-## Beyond Match Maximization and Fairness: Retention-Objectified Two-Sided Matching
+## Beyond Match Maximization and Fairness: Retention-Optimized Two-Sided Matching
 
-This repository contains the code to replicate experiments conducted in the paper "[Beyond Match Maximization and Fairness: Retention-Objectified Two-Sided Matching](https://openreview.net/forum?id=g2cZaKmRrc)" by Ren Kishimoto, Rikiya Takehi, Koichi Tanaka, Yoji Tomita, Masahiro Nomura, Riku Togashi, and Yuta Saito, which has been accepted to ICLR2026.
+This repository contains the code to replicate experiments conducted in the paper "[Beyond Match Maximization and Fairness: Retention-Optimized Two-Sided Matching](https://openreview.net/forum?id=g2cZaKmRrc)" by Ren Kishimoto, Rikiya Takehi, Koichi Tanaka, Yoji Tomita, Masahiro Nomura, Riku Togashi, and Yuta Saito, which has been accepted to ICLR2026.
 
 
 
@@ -13,7 +13,7 @@ In this work, instead of maximizing matches or axiomatically defining fairness, 
 ```
 @inproceedings{
 kishimoto2026beyond,
-title={Beyond Match Maximization and Fairness: Retention-Objectified Two-Sided Matching},
+title={Beyond Match Maximization and Fairness: Retention-Optimized Two-Sided Matching},
 author={Ren Kishimoto and Rikiya Takehi and Koichi Tanaka and Yoji Tomita and Masahiro Nomura and Riku Togashi and Yuta Saito},
 booktitle={The Fourteenth International Conference on Learning Representations},
 year={2026},
